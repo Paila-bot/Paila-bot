@@ -35,7 +35,7 @@
   <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
  </p>
  <br/>
-
+<br/>
  <div align="left">
   <h2 id="projects">Projects</h2>
   <h3>Athlete Management and Booking Sysytem</h3>
