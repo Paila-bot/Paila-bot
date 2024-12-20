@@ -40,6 +40,9 @@
   <h2 id="projects">Projects</h2>
   <h3>Athlete Management and Booking Sysytem</h3>
   <p align="left">
+   <a href="https://github.com/Paila-bot/UJ-Sport/tree/main">Docs Repo</a>
+   <a href="https://github.com/IFMTYP2024/team26-mobile">Mobile Repo</a>
+   <a href="https://github.com/IFMTYP2024/team26-main">Web App Repo</a>
     Description
   </p>
    <a href="https://www.youtube.com/watch?v=5wLYIcsfo-4&t=18s&ab_channel=TshepoMohale"><img src="https://github.com/Paila-bot/UJ-Sport/blob/main/Screen%20Mock%20ups/UJSport%20App.png"/></a>
