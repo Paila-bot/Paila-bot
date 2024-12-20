@@ -23,10 +23,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left">
+ <h3 id="intro">Who is Paidamoyo</h2>
  I completed my BSc in Computer Science and Informatics and am expected to graduate in 2025 from the University of
  Johannesburg. Throughout my academic career, I have contributed to various projects and gained valuable software
  development experience through opportunities such as internships with Mukuru, participation in hackathons, and other
  collaborative efforts
+ </p>
+
+ <p align="left">
+ <h3 id="skills">Languages and Technologies</h2>
+ 
+ </p>
+
+  <p align="left">
+ <h3 id="projects">Projects</h2>
+ 
+ </p>
+
 
 
 
