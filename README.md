@@ -8,22 +8,7 @@
    <li><a href="#projects">Projects</a>  <br/></li>
    </ul>  
  </p> 
-
-<!--
-**Paila-bot/Paila-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+ 
 <p align="left">
  <h3 id="intro">Who is Paidamoyo</h2>
  I completed my BSc in Computer Science and Informatics and am expected to graduate in 2025 from the University of
@@ -33,7 +18,7 @@ Here are some ideas to get you started:
  </p>
 
  <p align="left">
- <h3 id="skills">Languages and Technologies</h2>
+ <h2 id="skills">Languages and Technologies</h2>
  <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
  <img align="left" alt="Java" width="40px" style="padding-right:10px;" align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />         
  <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
@@ -49,12 +34,24 @@ Here are some ideas to get you started:
  <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wasm/wasm-original.svg" />         
  </p>
  <br/>
-  <hr/>
 
- <p align="left">
- <h3 id="projects">Projects</h2>
- 
- </p>
+ <div align="left">
+  <h2 id="projects">Projects</h2>
+  <h3>Recyclable Materials E-Commerce Website</h3>
+  <p align="left">
+    Description
+  </p>
+  <iframe 
+    width="640" 
+    height="360" 
+    src="https://www.youtube.com/embed/nDZlX3fvj90?si=wF1WcyhsCsJGRQHF" 
+    title="Recyclable Materials E-Commerce Website" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+</div>
+
 
 
 
