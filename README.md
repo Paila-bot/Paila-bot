@@ -49,11 +49,9 @@ I am an upcoming software engineer and aspiring data scientist. My passion for I
     <i>NB: Markelink logo os a link to the project demo video</i>
    
   </p>
-   <a href="https://youtu.be/nDZlX3fvj90?si=JNTeMsX2AJp5S-ZY"><img src="logo.jpg"/></a>
-</div>
+   <a href="https://youtu.be/nDZlX3fvj90?si=JNTeMsX2AJp5S-ZY"><img src="logo.jpg"/></a><br/>
 
- <div align="left">
-  <h2 id="projects">Projects</h2>
+
   <h3>Athlete Management and Booking Sysytem</h3>
   <p align="left">
    <b>Background and Problem</b><br/>
