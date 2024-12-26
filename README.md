@@ -93,8 +93,8 @@ I am an upcoming software engineer and aspiring data scientist. My passion for I
 
 <button style="background-color: #32cd32; color: white; padding: 12px 20px; border: none; border-radius: 8px; cursor: pointer; font-weight: bold; text-align: center;">
   <a href="https://github.com/IFMTYP2024/team26-main" style="color: white; text-decoration: none;">🌐 Web App Repo</a>
-</button>  
-
+</button><br/>  
+<i>Picture is a link to the project demo</i>
    <a href="https://www.youtube.com/watch?v=5wLYIcsfo-4&t=18s&ab_channel=TshepoMohale"><img src="https://github.com/Paila-bot/UJ-Sport/blob/main/Screen%20Mock%20ups/UJSport%20App.png"/></a>
 </div>
 
