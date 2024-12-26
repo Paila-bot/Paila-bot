@@ -37,13 +37,6 @@ I am an upcoming software engineer and aspiring data scientist. My passion for I
  <br/>
 <br/>
 
-<p align="left">
- As part of my Informatics 2 course focused on e-commerce websites, I worked in a group of four to develop a three-tier e-commerce platform.
- Our team created a B2B website for scrap and recyclable materials. We utilized ASP.NET, C#, and SQL for the project. This experience required significant
- commitment, a willingness to learn, and dedication from all team members. Among the key lessons I learned were the importance of teamwork and effective communication, 
- and I had the opportunity to enhance my problem-solving skills in a real-world scenario.
-</p>
-
 <div align="left">
   <h2 id="projects">Projects</h2>
   <h3>E-commerce website (Marketlink)</h3>
